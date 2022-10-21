@@ -1,6 +1,6 @@
 # Mission Dotlas 🌎
 
-Part-Time Student Data Engineer Assessment
+Part-Time Data Engineer Assessment
 
 - [Mission Dotlas 🌎](#mission-dotlas-)
   - [Overview](#overview)
@@ -76,10 +76,6 @@ Let's create a private fork of this repository:
   </p>
 
 Once the repository is created on GitHub, clone it onto your local system!
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/864533yaFNqs8/giphy.gif?cid=6104955ezop1lpz2a98iszxipqypnd4b2g4ccsatmh50vpmj&rid=giphy.gif&ct=g" alt="Beeping noise" />
-</p>
 
 ### Install Python `v3.9` or higher
 
