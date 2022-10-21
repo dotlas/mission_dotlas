@@ -30,37 +30,36 @@ Your mission, should you choose to accept it, is to transform, process and analy
 
 Here are a few maps to get you inspired!
 
-<figure align="center">
+<p align="center">
   <img height="400" src="./assets/maps/california_restaurants.png" alt="Restaurants in California" />
-  <figcaption>Restaurants in California</figcaption>
-</figure>
+  <p align="center">Restaurants in California</p>
+</p>
 
-<figure align="center">
+<p align="center">
   <img height="400" src="./assets/maps/la_price_ranges.png" alt="Restaurants in Los Angeles, grouped into Hexagons according to their Price Range" />
-  <figcaption>Restaurants in Los Angeles, grouped into <a href="https://www.youtube.com/watch?v=thOifuHs6eY">Hexagons</a> according to their Price Range</figcaption>
-</figure>
+  <p align="center">Restaurants in Los Angeles, grouped into <a href="https://www.youtube.com/watch?v=thOifuHs6eY">Hexagons</a> according to their Price Range</p>
+</p>
 
-<figure align="center">
+<p align="center">
   <img height="400" src="./assets/maps/la_restaurant_density.png" alt="Restaurants in Los Angeles, on a Grid, height indicates count" />
-  <figcaption>Restaurants in Los Angeles, on a Grid, height indicates count</figcaption>
-</figure>
+  <p align="center">Restaurants in Los Angeles, on a Grid, height indicates count</p>
+</p>
 
-<figure align="center">
+<p align="center">
   <img height="400" src="./assets/maps/sf_dress_code.png" alt="Restaurants in San Francisco, according to their Dress Code, height indicates count" />
-  <figcaption>Restaurants in San Francisco, according to their Dress Code, height indicates count</figcaption>
-</figure>
+  <p align="center">Restaurants in San Francisco, according to their Dress Code, height indicates count</p>
+</p>
 
 <p align="center">
   <strong>We&#39;ve uploaded our dataset to an 
     <a href="https://studio.unfolded.ai/public/5b812aeb-8e2b-4530-bbca-ca14429bf03e">interactive map</a>
    on the Unfolded platform. Feel free to explore it.
   </strong>
-  <img src="" alt="Star Wars Map">
 </p>
 
-<figure align="center">
+<p align="center">
   <img src="https://media0.giphy.com/media/3owzW2gwRKOG68Xu4E/giphy-downsized.gif?cid=6104955ec91oi7atpb4ge6dcogeal6fip5bwyqqgcz8e055y&rid=giphy-downsized.gif&ct=g" alt="Star Wars Map" />
-</figure>
+</p>
 
 ## Getting started
 
@@ -71,16 +70,16 @@ Let's create a private fork of this repository:
 - [Go to the Import a repository page on GitHub](https://github.com/new/import)
 - Fill in the information as shown below:
 
-  <figure>
+  <p align="center">
     <img height="400" src="./assets/private_fork.png" alt="How to create a private fork" />
-    <figcaption>How to create a private fork</figcaption>
-  </figure>
+    <p align="center">How to create a private fork</p>
+  </p>
 
 Once the repository is created on GitHub, clone it onto your local system!
 
-<figure align="center">
+<p align="center">
   <img src="https://media0.giphy.com/media/864533yaFNqs8/giphy.gif?cid=6104955ezop1lpz2a98iszxipqypnd4b2g4ccsatmh50vpmj&rid=giphy.gif&ct=g" alt="Beeping noise" />
-</figure>
+</p>
 
 ### Install Python `v3.9` or higher
 
@@ -129,8 +128,7 @@ Feel free to reach out to us, should you have any questions.
 
 > Feel free to ping us anytime for support.
 
-**May the force be with you!**
-
-<figure align="center">
+<p align="center">
   <img src="https://media3.giphy.com/media/rHR8qP1mC5V3G/giphy.gif?cid=6104955e5o2xk6gadzs2yw1nignfpkhtg8bo08fm37d9sj6m&rid=giphy.gif&ct=g" alt="Students copying" />
-</figure>
+  <p align="center"><strong>May the Force be with You!</strong></p>
+</p>
