@@ -95,6 +95,9 @@ pip install -r requirements
 
 > You may install any additional dependencies!
 
+### Get crackin'!
+Your mission's details are displayed in [mission.ipynb](./mission.ipynb).
+
 ### Learning resources
 
 Please refer to [HELP.md](./HELP.md) for some resources to help you get acquainted with the tools you will need.
