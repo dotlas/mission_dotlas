@@ -16,6 +16,11 @@ Part-Time Data Engineer Assessment
     - [Criteria](#criteria)
     - [Contact](#contact)
 
+> **Warning**
+> 
+> **Applicants will be disqualified if they make a public fork of this repository.**
+> Create a [private fork](#create-a-private-fork) instead.
+
 ## Overview
 
 ### About us
