@@ -16,6 +16,11 @@ Part-Time Data Engineer Assessment
     - [Criteria](#criteria)
     - [Contact](#contact)
 
+> **Warning**
+> 
+> **Applicants will be disqualified if they make a public fork of this repository.**
+> Create a [private fork](#create-a-private-fork) instead.
+
 ## Overview
 
 ### About us
@@ -24,11 +29,7 @@ We at [Dotlas](https://dotlas.com) are building a suite of products for controll
 
 ### The Mission
 
-Your mission, should you choose to accept it, is to transform, process and analyze our dataset of **Restaurants in The State of California, USA**.
-
-> For more details refer to [mission.ipynb](./mission.ipynb).
-
-Here are a few maps to get you inspired!
+Your mission, should you choose to accept it, is to transform, process and analyze our dataset of **Restaurants in The State of California, USA**. Here are a few maps to get you inspired!
 
 <p align="center">
   <img height="400" src="./assets/maps/california_restaurants.png" alt="Restaurants in California" />
@@ -94,6 +95,9 @@ pip install -r requirements
 ```
 
 > You may install any additional dependencies!
+
+### Get crackin'!
+Your mission's details are displayed in [mission.ipynb](./mission.ipynb).
 
 ### Learning resources
 
