@@ -1,5 +1,11 @@
 # Mission Dotlas 🌎
 
+[![Python version](https://img.shields.io/badge/python-v3.9-blue)](https://img.shields.io/badge/python-v3.9-blue)
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 Part-Time Data Engineer Assessment
 
 - [Mission Dotlas 🌎](#mission-dotlas-)
@@ -10,14 +16,16 @@ Part-Time Data Engineer Assessment
     - [Create a Private fork](#create-a-private-fork)
     - [Install Python `v3.9` or higher](#install-python-v39-or-higher)
     - [Install dependencies](#install-dependencies)
+    - [Get crackin'](#get-crackin)
     - [Learning resources](#learning-resources)
   - [Evaluation](#evaluation)
     - [Submission](#submission)
     - [Criteria](#criteria)
+    - [Nice-to-have](#nice-to-have)
     - [Contact](#contact)
 
 > **Warning**
-> 
+>
 > **Applicants will be disqualified if they make a public fork of this repository.**
 > Create a [private fork](#create-a-private-fork) instead.
 
@@ -52,7 +60,7 @@ Your mission, should you choose to accept it, is to transform, process and analy
 </p>
 
 <p align="center">
-  <strong>We&#39;ve uploaded our dataset to an 
+  <strong>We&#39;ve uploaded our dataset to an
     <a href="https://studio.unfolded.ai/public/5b812aeb-8e2b-4530-bbca-ca14429bf03e">interactive map</a>
    on the Unfolded platform. Feel free to explore it.
   </strong>
@@ -96,7 +104,8 @@ pip install -r requirements
 
 > You may install any additional dependencies!
 
-### Get crackin'!
+### Get crackin'
+
 Your mission's details are displayed in [mission.ipynb](./mission.ipynb).
 
 ### Learning resources
@@ -117,14 +126,22 @@ Submissions will be judged on:
 - Correctness & approach to the solution
 - Use of "best practices" by adhering to the [Pythonic way](https://towardsdatascience.com/how-to-be-pythonic-and-why-you-should-care-188d63a5037e)
 
+### Nice-to-have
+
+> Incorporating the following will be marginally helpful to the graders to reduce friction in evaluating your assignment
+
+- Do not create additional branches on your private repository with the submission. Keep all changes on the `main` branch.
+- Add your answers to the same file `mission.ipynb`
+- Do not delete markdown sections of `mission.ipynb`. Feel free to add as many sections for documentation or otherwise as you need but don't delete sections already present.
+
 ### Contact
 
 Feel free to reach out to us, should you have any questions.
 
 | Name            | LinkedIn                               | GitHub                            |
 | :-------------- | :------------------------------------- | :-------------------------------- |
-| Eshwaran Venkat | https://linkedin.com/in/eshwaranv98/   | https://github.com/cricksmaidiene |
-| Kelvin DeCosta  | https://linkedin.com/in/kelvindecosta/ | https://github.com/kelvindecosta  |
+| Eshwaran Venkat | <https://linkedin.com/in/eshwaranv98/>   | <https://github.com/cricksmaidiene> |
+| Kelvin DeCosta  | <https://linkedin.com/in/kelvindecosta/> | <https://github.com/kelvindecosta>  |
 
 > Feel free to ping us anytime for support.
 
