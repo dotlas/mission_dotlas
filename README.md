@@ -63,8 +63,8 @@ Your mission, should you choose to accept it, is to transform, process and analy
 
 <p align="center">
   <strong>We&#39;ve uploaded our dataset to an
-    <a href="https://studio.unfolded.ai/public/5b812aeb-8e2b-4530-bbca-ca14429bf03e">interactive map</a>
-   on the Unfolded platform. Feel free to explore it.
+    <a href="https://studio.foursquare.com/public/5b812aeb-8e2b-4530-bbca-ca14429bf03e">interactive map</a>
+   on Foursquare Studio. Feel free to explore it.
   </strong>
 </p>
 
