@@ -35,7 +35,7 @@ Part-Time Data Engineer Assessment
 
 ### About us
 
-We at [Dotlas](https://dotlas.com) are building a suite of products for controlling, optimizing & growing retail businesses through AI-driven insights.
+We at [Dotlas](https://dotlas.com) are building a platform for controlling, optimizing & growing retail businesses through AI-driven insights.
 
 ### The Mission
 
