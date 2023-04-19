@@ -8,7 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-Part-Time Data Engineer Assessment
+Data Science Assessment
 
 - [Mission Dotlas 🌎](#mission-dotlas-)
   - [Overview](#overview)
