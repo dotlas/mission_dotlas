@@ -101,7 +101,7 @@ Once the repository is created on GitHub, clone it onto your local system!
 ### Install dependencies
 
 ```bash
-pip install -r requirements
+python -m pip install -r requirements
 ```
 
 > You may install any additional dependencies!
@@ -142,6 +142,7 @@ Feel free to reach out to us, should you have any questions.
 
 | Name            | LinkedIn                               | GitHub                            |
 | :-------------- | :------------------------------------- | :-------------------------------- |
+| Nuno Freitas  | <https://www.linkedin.com/in/nunoamaralfreitas/> | <https://github.com/NaFreitaz>  |
 | Eshwaran Venkat | <https://linkedin.com/in/eshwaranv98/>   | <https://github.com/cricksmaidiene> |
 | Kelvin DeCosta  | <https://linkedin.com/in/kelvindecosta/> | <https://github.com/kelvindecosta>  |
 
