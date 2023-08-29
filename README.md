@@ -31,21 +31,6 @@
 > **Applicants will be disqualified if they make a public fork of this repository.**
 > Create a [private fork](#create-a-private-fork) instead.
 
-> 🚨 **Alert**
->
-> **We are currently hiring for 2 roles, and each role has a different assignment.**
->
-> **Internship** applicants of Skydeck from University of California, Berkeley must complete `mission-internship.ipynb`
->
-> **Full-time Data Engineer** applicants must complete `mission-data-engineer.ipynb`
->
-> Feel free to read the rest of the instructions, but complete the assignment that is relevant to the role you've applied for.
-
-<p align="left">
-  <img height="200" src="./assets/redblue.png" alt="Choose your mission" />
-  <p align="center"></p>
-</p>
-
 ## Overview
 
 ### About us
@@ -123,7 +108,7 @@ python -m pip install -r requirements
 
 ### Get crackin'
 
-Your mission's details are displayed in [mission-internship.ipynb](./mission-internship.ipynb) if you've applied for the internship position from Cal Berkeley. Full-time Data Engineer applicants from India / Brazil must complete [mission-data-engineer.ipynb](./mission-data-engineer.ipynb).
+Your mission's details are displayed in [mission.ipynb](./mission.ipynb).
 
 ### Learning resources
 
