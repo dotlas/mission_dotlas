@@ -37,9 +37,14 @@
 >
 > **Internship** applicants of Skydeck from University of California, Berkeley must complete `mission-internship.ipynb`
 >
-> **Full-time Data Engineer** applicants from India / Brazil must complete `mission-data-engineer.ipynb`
+> **Full-time Data Engineer** applicants must complete `mission-data-engineer.ipynb`
 >
 > Feel free to read the rest of the instructions, but complete the assignment that is relevant to the role you've applied for.
+
+<p align="left">
+  <img height="200" src="./assets/redblue.png" alt="Choose your mission" />
+  <p align="center"></p>
+</p>
 
 ## Overview
 
