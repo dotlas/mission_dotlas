@@ -1,5 +1,7 @@
 # Mission Dotlas 🌎
 
+> 📆 Fall 2023
+
 [![Python version](https://img.shields.io/badge/python-v3.9-blue)](https://img.shields.io/badge/python-v3.9-blue)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mission_dotlas/CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-purple.svg)](https://opensource.org/licenses/BSD-3-Clause)
@@ -7,8 +9,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-Data Science Assessment
 
 - [Mission Dotlas 🌎](#mission-dotlas-)
   - [Overview](#overview)
@@ -26,10 +26,20 @@ Data Science Assessment
     - [Nice-to-have](#nice-to-have)
     - [Contact](#contact)
 
-> **Warning**
+> ⚠️ **Warning**
 >
 > **Applicants will be disqualified if they make a public fork of this repository.**
 > Create a [private fork](#create-a-private-fork) instead.
+
+> 🚨 **Alert**
+>
+> **We are currently hiring for 2 roles, and each role has a different assignment.**
+>
+> **Internship** applicants of Skydeck from University of California, Berkeley must complete `mission-internship.ipynb`
+>
+> **Full-time Data Engineer** applicants from India / Brazil must complete `mission-data-engineer.ipynb`
+>
+> Feel free to read the rest of the instructions, but complete the assignment that is relevant to the role you've applied for.
 
 ## Overview
 
@@ -108,7 +118,7 @@ python -m pip install -r requirements
 
 ### Get crackin'
 
-Your mission's details are displayed in [mission.ipynb](./mission.ipynb).
+Your mission's details are displayed in [mission-internship.ipynb](./mission-internship.ipynb) if you've applied for the internship position from Cal Berkeley. Full-time Data Engineer applicants from India / Brazil must complete [mission-data-engineer.ipynb](./mission-data-engineer.ipynb).
 
 ### Learning resources
 
@@ -133,8 +143,8 @@ Submissions will be judged on:
 > Incorporating the following will be marginally helpful to the graders to reduce friction in evaluating your assignment
 
 - Do not create additional branches on your private repository with the submission. Keep all changes on the `main` branch.
-- Add your answers to the same file `mission.ipynb`
-- Do not delete markdown sections of `mission.ipynb`. Feel free to add as many sections for documentation or otherwise as you need but don't delete sections already present.
+- Add your answers to the same jupyter notebook file.
+- Do not delete markdown sections of the jupyter notebook. Feel free to add as many sections for documentation or otherwise as you need but don't delete sections already present.
 
 ### Contact
 
