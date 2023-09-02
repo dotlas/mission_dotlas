@@ -136,7 +136,7 @@ Submissions will be judged on:
 - Add your answers to the same jupyter notebook file.
 - Do not delete markdown sections of the jupyter notebook. Feel free to add as many sections for documentation or otherwise as you need but don't delete sections already present.
 
-### Contact 💬  
+### Contact  
 
 Feel free to reach out to us, should you have any questions.
 
