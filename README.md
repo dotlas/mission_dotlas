@@ -35,7 +35,7 @@
 
 ### About us
 
-We at [Dotlas](https://dotlas.com) are building a platform for controlling, optimizing & growing retail businesses through AI-driven insights.
+We at [Dotlas](https://dotlas.com) are building a platform for controlling, optimizing & growing retail businesses through AI-driven insights. We've been refining and revamping this assignment for a while now, and we're excited to see what you can do with it! Optionally view past assignments, along with stats in the [archives](./archive/README.md)
 
 ### The Mission
 
