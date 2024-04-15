@@ -74,7 +74,13 @@ Refer to [HELP.md](./HELP.md) for some resources to help you get acquainted with
 
 ### Submission
 
-Once you're ready for evaluation, [invite us](#contact) as [private collaborators to your private fork](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)!
+Once you're ready for evaluation, invite us as [private collaborators to your private fork](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)!
+
+You can invite the following github handles to review your assignment. Ensure to add all handles as collaborators:
+
+- [`cricksmaidiene`](https://github.com/cricksmaidiene)
+- [`mateomontero01`](https://github.com/mateomontero01)
+- [`stephenjh`](https://github.com/stephenjh)
 
 ### Criteria
 
