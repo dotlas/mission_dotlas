@@ -12,3 +12,5 @@ This is a repository for past Mission Dotlas assignments, which test candidates 
   * [Data Science Assignment](fall-2023/mission-fall-2023.ipynb)
   * [Data Engineering Prelims](fall-2023/prelims)
   * [Dotlas Odyssey](https://github.com/dotlas/dotlas_odyssey)
+
+> Spring 2024 and Summer 2024 assignments use the same notebook, and it is live on the root of the repository.
