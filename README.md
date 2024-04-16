@@ -57,7 +57,7 @@ Let's create a private fork of this repository:
 ### Install dependencies
 
 ```bash
-python -m pip install -r requirements
+python -m pip install -r requirements.txt
 ```
 
 > You may install any additional dependencies!
