@@ -80,7 +80,6 @@ You can invite the following github handles to review your assignment. Ensure to
 
 - [`cricksmaidiene`](https://github.com/cricksmaidiene)
 - [`mateomontero01`](https://github.com/mateomontero01)
-- [`stephenjh`](https://github.com/stephenjh)
 
 ### Criteria
 
